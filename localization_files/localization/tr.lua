@@ -767,8 +767,8 @@ return {
                 text={
                     "Turun {C:attention}ilk elinde{}",
                     "yalnızca {C:attention}1{} kart oynandıysa,",
-                    "o kartın kopyasını desteye",
-                    "ve mevcut {C:attention}ele{} ekler",
+                    "o kartın kopyasını desteye ve",
+                    "mevcut {C:attention}ele{} ekler",
                 },
             },
             j_drivers_license={
